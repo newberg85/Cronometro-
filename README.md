@@ -1,4 +1,4 @@
-# clone tinder
+# cronometro 
 
 ## Tabela de conteúdos 
 
