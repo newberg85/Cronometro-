@@ -20,7 +20,7 @@
 
 ### Links
 
-- Site: https://newberg85.github.io/Clone-design-Discord-Nitro/
+- Site: https://newberg85.github.io/Cronometro-/
 
 ## Feito com
 
